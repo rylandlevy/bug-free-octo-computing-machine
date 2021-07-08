@@ -9,147 +9,147 @@ styleshets into just this one in each of themed templates.
 
 
 .body-container__website textarea {
- height: unset !important; 
-}
-#hs_cos_wrapper_widget_1615403688042 {
-    margin: unset !important;
-}
-@media screen and (min-width: 40em){
-.header-right {
-   padding: unset !important;
-}
-}
-.header-right {
-    float: right;
-
-    text-align: right;
-}
-.rg-tag-line{
-    color: rgba(255,255,255,1.0);
-    background-color: rgba(7,43,122,1.0);
-    border-color: rgba(186,188,190,1.0);
-      min-height: 2em;
-    padding-top: .875em;
-    margin-top: 2em;
-    clear: both;
-    border-bottom-width: .875em;
-    border-bottom-style: solid;
-    text-transform: uppercase;
-    box-sizing: content-box;
-}  
-
-.kiara{
-    display: flex; 
-    justify-content: space-evenly; 
-    padding: 2rem 0rem; 
-    align-items: center; 
-    width: 80%; 
-    margin: 0 auto; 
-}
-.rg-cert{
-    display: flex; 
-    justify-content: space-evenly; 
-    padding: 2rem 0rem; 
-    align-items: center; 
-    width: 80%; 
-    margin: 0 auto; 
-}
-@media (max-width: 767px){
-
-   div.ina > .holo {
-  max-width: 35em;
-  min-height: 15em;
-  margin: 0 auto;
-  width: 90%;
+  height: unset !important; 
  }
-
-}
-@media screen and (max-width: 1200px) {
-  .kiara{
-      display: block !important;
-    }
-   div.ina > .holo {
-  margin-right: 5em;
+ #hs_cos_wrapper_widget_1615403688042 {
+     margin: unset !important;
  }
-
-  div.kiara  p {
-   padding-bottom: 1em;
-    border-right: unset !important;
-    border-bottom: 2px solid grey;
+ @media screen and (min-width: 40em){
+ .header-right {
+    padding: unset !important;
+ }
+ }
+ .header-right {
+     float: right;
+ 
+     text-align: right;
+ }
+ .rg-tag-line{
+     color: rgba(255,255,255,1.0);
+     background-color: rgba(7,43,122,1.0);
+     border-color: rgba(186,188,190,1.0);
+       min-height: 2em;
+     padding-top: .875em;
+     margin-top: 2em;
+     clear: both;
+     border-bottom-width: .875em;
+     border-bottom-style: solid;
+     text-transform: uppercase;
+     box-sizing: content-box;
+ }  
+ 
+ .kiara{
+     display: flex; 
+     justify-content: space-evenly; 
+     padding: 2rem 0rem; 
+     align-items: center; 
+     width: 80%; 
+     margin: 0 auto; 
+ }
+ .rg-cert{
+     display: flex; 
+     justify-content: space-evenly; 
+     padding: 2rem 0rem; 
+     align-items: center; 
+     width: 80%; 
+     margin: 0 auto; 
+ }
+ @media (max-width: 767px){
+ 
+    div.ina > .holo {
+   max-width: 35em;
+   min-height: 15em;
+   margin: 0 auto;
+   width: 90%;
   }
-  .ina{
-    padding-left: unset !important;
-}
-.dropbtn{
-  margin-left: -1em
+ 
+ }
+ @media screen and (max-width: 1200px) {
+   .kiara{
+       display: block !important;
+     }
+    div.ina > .holo {
+   margin-right: 5em;
   }
-  .azir{
-  flex-direction: column !important;
-  }
-  .s-l-lab{
-    padding-left: unset !important;
-    padding-bottom: .5px;
-  }
-  .riven{
-    display: flex !important;
-    flex-direction: column;
-    margin-bottom: .5em;
-  }
-}
-
-a:active{
- color: rgba(7,43,122,1.0) !important;
-
-}
-a:hover{
- color: rgba(7,43,122,1.0) !important;
-
-}
-.hs-menu-children-wrapper{
- display:none; 
-}
-li.hs-item-has-children > ul.hs-menu-children-wrapper > li.hs-item-has-children:hover > .hs-menu-children-wrapper {
-    display: block;
-    background-color: rgba(255,255,255,1.0);
-    border-color: rgba(210,210,210,1.0);
-    position: absolute;
-    top: 0.063em;
-    border-width: 1px;
-    border-style: solid;
-    width: 13.125em;
-    left: 13.2rem;
-    padding: 0;
-    z-index: 90;
-    float: none;
-    box-sizing: content-box;
-}
-li.hs-item-has-children > ul.hs-menu-children-wrapper > li.hs-item-has-children > a::after {
-   content: ">";
-   color: rgba(7,43,122,1.0);
+ 
+   div.kiara  p {
+    padding-bottom: 1em;
+     border-right: unset !important;
+     border-bottom: 2px solid grey;
+   }
+   .ina{
+     padding-left: unset !important;
+ }
+ .dropbtn{
+   margin-left: -1em
+   }
+   .azir{
+   flex-direction: column !important;
+   }
+   .s-l-lab{
+     padding-left: unset !important;
+     padding-bottom: .5px;
+   }
+   .riven{
+     display: flex !important;
+     flex-direction: column;
+     margin-bottom: .5em;
+   }
+ }
+ 
+ a:active{
+  color: rgba(7,43,122,1.0) !important;
+ 
+ }
+ a:hover{
+  color: rgba(7,43,122,1.0) !important;
+ 
+ }
+ .hs-menu-children-wrapper{
+  display:none; 
+ }
+ li.hs-item-has-children > ul.hs-menu-children-wrapper > li.hs-item-has-children:hover > .hs-menu-children-wrapper {
+     display: block;
+     background-color: rgba(255,255,255,1.0);
+     border-color: rgba(210,210,210,1.0);
+     position: absolute;
+     top: 0.063em;
+     border-width: 1px;
+     border-style: solid;
+     width: 13.125em;
+     left: 13.2rem;
+     padding: 0;
+     z-index: 90;
+     float: none;
+     box-sizing: content-box;
+ }
+ li.hs-item-has-children > ul.hs-menu-children-wrapper > li.hs-item-has-children > a::after {
+    content: ">";
+    color: rgba(7,43,122,1.0);
+    padding-left: .5rem;
+ }
+ 
+ .custom-menu-primary .hs-menu-wrapper>ul>li>a{
+  text-transform: unset; 
+  font-weight: 300;
+  font-size: 1.6rem;
+ }
+ 
+ .custom-menu-primary .hs-menu-wrapper>ul>li.hs-item-has-children:hover>a span {
+    color: rgba(7,43,122,1.0) !important;
+ }
+ 
+ .custom-menu-primary .hs-menu-wrapper>ul>li ul li a:hover{
+    background-color: rgba(7,43,122,1.0) !important;
+    color: white !important;
+ }
+ .custom-menu-primary .hs-menu-wrapper>ul>li ul li:hover a::after{
+    color: white;
    padding-left: .5rem;
-}
-
-.custom-menu-primary .hs-menu-wrapper>ul>li>a{
- text-transform: unset; 
- font-weight: 300;
- font-size: 1.1rem;
-}
-
-.custom-menu-primary .hs-menu-wrapper>ul>li.hs-item-has-children:hover>a span {
-   color: rgba(7,43,122,1.0) !important;
-}
-
-.custom-menu-primary .hs-menu-wrapper>ul>li ul li a:hover{
-   background-color: rgba(7,43,122,1.0) !important;
-   color: white !important;
-}
-.custom-menu-primary .hs-menu-wrapper>ul>li ul li:hover a::after{
-   color: white;
-  padding-left: .5rem;
-}
-.custom-menu-primary .hs-menu-wrapper ul li ul li {
-    list-style-type: none;
-}
-*{
-  font-family: Source Sans Pro,sans-serif !important; 
-}
+ }
+ .custom-menu-primary .hs-menu-wrapper ul li ul li {
+     list-style-type: none;
+ }
+ *{
+   font-family: Source Sans Pro,sans-serif !important; 
+ }
